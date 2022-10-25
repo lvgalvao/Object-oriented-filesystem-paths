@@ -1,0 +1,4 @@
+cli-exit-tools==1.2.3.2
+click==8.1.3
+lib-detect-testenv==2.0.2.2
+pathlib3x==2.0.2.1
