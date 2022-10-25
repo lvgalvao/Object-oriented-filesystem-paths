@@ -1,5 +1,5 @@
-from pathlib import Path
-from shutil import rmtree
+from pathlib import Path # object-oriented filesystem paths
+from shutil import rmtree # high-level file operations
 
 # set output path
 output_path = Path('weak_against_electric')
